@@ -1,6 +1,7 @@
-## Comprehensive Still Life Nomenclature System
+# Comprehensive Still Life Nomenclature System
+## The CSLNS
 
-Comprehensive Still Life Nomenclature System - The CSLNS
+Discord  server: [Comprehensive Still Life Nomenclature System](https://discord.gg/AMyTTaQkPG)
 <!--
 
 **Here are some ideas to get you started:**
