@@ -1,5 +1,5 @@
 # Comprehensive Still Life Nomenclature System
-## The CSLNS
+## A systematic and intuitive system for naming the still lifes of CGOL
 
 Discord  server: [Comprehensive Still Life Nomenclature System](https://discord.gg/AMyTTaQkPG)
 <!--
